@@ -1,0 +1,5 @@
+hierarq 3 cl: (0.6530904589800463, 'average', 'cosine') 
+hierarq 4 cl: (0.6359274956182518, 'average', 'cosine')
+kmeans 3 cl: 0.4186400149590108
+kmeans 4 cl: 0.3345163605192539
+	
